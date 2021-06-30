@@ -17,7 +17,7 @@ function FooterBrand() {
     return (
             <Box>
                 <Image
-                    src='glacier-finance-brand.png'
+                    src='kucoin-money-brand.png'
                     variant='avatar'
                     sx={{
                         height: 70,

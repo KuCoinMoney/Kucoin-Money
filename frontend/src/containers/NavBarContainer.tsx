@@ -15,7 +15,7 @@ function NavBarContainer() {
             alignItems='center'
       >
         <Image
-          src='glacier-finance-brand.png'
+          src='kucoin-money-brand.png'
           variant='avatar'
           positon='relative'
           sx={{
